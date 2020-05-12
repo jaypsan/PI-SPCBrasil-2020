@@ -14,6 +14,8 @@ Autores: Equipe (5) Bureal-SqPy
 [*Beatriz Coutinho (PO)*](https://github.com/bibiacoutinho)  
 [*João Pedro Santos (MASTER)*](https://github.com/QuodJP)
 [*Felipe Costa*](https://github.com/fcostafelipe) 
-[*Daniel Oliveira*](https://github.com/danielsantosoliveira)  
+
+[*Daniel Oliveira*](https://github.com/danielsantosoliveira) 
+
 [*João Victor Gallina*](https://github.com/JVMedeiros)
 [*Marcelo Uchôas*](https://github.com/marcelouchoas)
