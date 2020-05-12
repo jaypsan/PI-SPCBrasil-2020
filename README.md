@@ -10,13 +10,10 @@ O objetivo é encontrar possíveis erros que cada remessa pode conter, verificar
 ## Desenvolvimento
 A equipe utilizou a linguagem Python para a manipulação dos dados e Jupyter Notebook para visualização dos gráficos. Bibliotecas: pip, pandas. SO: Windows 10 e Linux Ubuntu.
 
-Autores: Equipe (5) Bureal-SqPy
-        [*Beatriz Coutinho (PO)*](https://github.com/bibiacoutinho)  
-[*João Pedro Santos (MASTER)*](https://github.com/QuodJP)
-
-[*Felipe Costa*](https://github.com/fcostafelipe) 
-
-[*Daniel Oliveira*](https://github.com/danielsantosoliveira) 
-
-[*João Victor Gallina*](https://github.com/JVMedeiros)
+## Equipe (5) Bureal-SqPy
+[*Beatriz Coutinho (PO)*](https://github.com/bibiacoutinho)                                                                             
+[*João Pedro Santos (MASTER)*](https://github.com/QuodJP)                                                                         
+[*Felipe Costa*](https://github.com/fcostafelipe)                                                                            
+[*Daniel Oliveira*](https://github.com/danielsantosoliveira)                                                                           
+[*João Victor Gallina*](https://github.com/JVMedeiros)                                                                                 
 [*Marcelo Uchôas*](https://github.com/marcelouchoas)
