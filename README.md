@@ -1,3 +1,5 @@
+#### Este é um projeto de fins acadêmicos em colaboração com o SPC Brasil
+![](SPC_GIF2.gif)
 # PI-SPCBrasil-2020
 Projeto Integrador da turma de 2º Semestre do Curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José de Campos (FATEC).
 
