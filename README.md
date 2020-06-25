@@ -6,10 +6,10 @@ ps: it sounds cooler than we thought it would. 🤭
 
 
 ## Team (5) Bureal-SqPy 
-[*Charles Ramos (PO)*](https://github.com/charles-ramos)
-[*João Pedro Santos (MASTER)*](https://github.com/QuodJP)
-[*Beatriz Coutinho*](https://github.com/bibiacoutinho)
-[*Felipe Costa*](https://github.com/fcostafelipe)                                                                            
+[*Charles Ramos (PO)*](https://github.com/charles-ramos)      
+[*João Pedro Santos (MASTER)*](https://github.com/QuodJP)      
+[*Beatriz Coutinho*](https://github.com/bibiacoutinho)      
+[*Felipe Costa*](https://github.com/fcostafelipe)      
 [*Daniel Oliveira*](https://github.com/danielsantosoliveira)                                                                           
 [*João Victor Gallina*](https://github.com/JVMedeiros)                                                                                 
 [*Marcelo Uchôas*](https://github.com/marcelouchoas)
