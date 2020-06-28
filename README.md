@@ -10,7 +10,7 @@ ps: it sounds cooler than we thought it would. 🤭
 
 ### :camera: <a href="SCREENSHOTS.md"> Click here to see all the screenshots
 
-<hr />
+<br>
 
 ## :electric_plug: Requirements:
 - Python >= 3.8.2
