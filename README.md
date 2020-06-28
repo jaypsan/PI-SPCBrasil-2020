@@ -16,6 +16,18 @@ ps: it sounds cooler than we thought it would. 🤭
 - matplotlib >= 3.2.1
 - Microsoft Power BI >= 2.82
 
+### Getting Started - Backend
+- Run setup.py
+- Select the indicated files from the project's database folder
+- Click on the button that reads "Processar"
+- Click on the button that reads "Sair" to close the window
+<img src="screenshots/getting-started/setup.png" width=400px>
+
+### Getting Starded - Frontend
+- Open PI-BUREAL.pbix
+- On the home tab, click on update (if asked, click yes to enable scripts on powerBI)
+<img src="screenshots/getting-started/frontend.png" width=400px>
+
 ## Team (5) Bureal-SqPy 
 [*Charles Ramos (PO)*](https://github.com/charles-ramos)      
 [*João Pedro Santos (MASTER)*](https://github.com/QuodJP)      
