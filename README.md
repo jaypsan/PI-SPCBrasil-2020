@@ -10,8 +10,6 @@ ps: it sounds cooler than we thought it would. 🤭
 
 ### :camera: <a href="SCREENSHOTS.md"> Click here to see all the screenshots
 
-<br>
-
 ## :electric_plug: Requirements:
 - Python >= 3.8.2
 - Pandas >= 1.0.5
