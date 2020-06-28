@@ -30,6 +30,8 @@ ps: it sounds cooler than we thought it would. 🤭
 - On the home tab, click on update (if asked, click yes to enable scripts on powerBI)
 <img src="screenshots/getting-started/frontend.png" width=400px>
 
+#### Now you can enjoy the dashboard :clap:
+
 ## Team (5) Bureal-SqPy 
 [*Charles Ramos (PO)*](https://github.com/charles-ramos)      
 [*João Pedro Santos (MASTER)*](https://github.com/QuodJP)      
