@@ -23,6 +23,8 @@ ps: it sounds cooler than we thought it would. 🤭
 - Click on the button that reads "Sair" to close the window
 <img src="screenshots/getting-started/setup.png" width=400px>
 
+<hr />
+
 ### Getting Starded - Frontend
 - Open PI-BUREAL.pbix
 - On the home tab, click on update (if asked, click yes to enable scripts on powerBI)
