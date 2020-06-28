@@ -16,14 +16,14 @@ ps: it sounds cooler than we thought it would. 🤭
 - matplotlib >= 3.2.1
 - Microsoft Power BI >= 2.82
 
+<hr />
+
 ### Getting Started - Backend
 - Run setup.py
 - Select the indicated files from the project's database folder
 - Click on the button that reads "Processar"
 - Click on the button that reads "Sair" to close the window
 <img src="screenshots/getting-started/setup.png" width=400px>
-
-<hr />
 
 ### Getting Starded - Frontend
 - Open PI-BUREAL.pbix
