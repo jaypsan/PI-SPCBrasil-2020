@@ -18,14 +18,13 @@ ps: it sounds cooler than we thought it would. 🤭
 
 <hr />
 
-### Getting Started - Backend
+### Getting Started
 - Run setup.py
 - Select the indicated files from the project's database folder
 - Click on the button that reads "Processar"
 - Click on the button that reads "Sair" to close the window
 <img src="screenshots/getting-started/setup.png" width=400px>
 
-### Getting Starded - Frontend
 - Open PI-BUREAL.pbix
 - On the home tab, click on update (if asked, click yes to enable scripts on powerBI)
 <img src="screenshots/getting-started/frontend.png" width=400px>
