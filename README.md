@@ -21,8 +21,8 @@ ps: it sounds cooler than we thought it would. 🤭
 ### Getting Started
 - Run setup.py
 - Select the indicated files from the project's database folder
-- Click on the button that reads "Processar"
-- Click on the button that reads "Sair" to close the window
+- Click on the button "Processar"
+- Click on the button "Sair" to close the window
 <img src="screenshots/getting-started/setup.png" width=400px>
 
 - Open PI-BUREAL.pbix
