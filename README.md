@@ -18,9 +18,16 @@ ps: it sounds cooler than we thought it would. 🤭
 
 <hr />
 
-### Getting Started
+## Getting Started
+
+#### For the data sample that we recieved the dashboard is ready to be used, simply open PI-BUREAL.pbix and enjoy.
+
+#### However, we implemented the possibility to update the data entry following the steps below:
+
+### Updating data entry
+
 - Run setup.py
-- Select the indicated files from the project's database folder
+- Select the respective files
 - Click on the button "Processar"
 - Click on the button "Sair" to close the window
 <img src="screenshots/getting-started/setup.png" width=400px>
@@ -29,7 +36,6 @@ ps: it sounds cooler than we thought it would. 🤭
 - On the home tab, click on update (if asked, click yes to enable scripts on powerBI)
 <img src="screenshots/getting-started/frontend.png" width=400px>
 
-#### Now you can enjoy the dashboard :clap:
 
 ## Team (5) Bureal-SqPy 
 [*Charles Ramos (PO)*](https://github.com/charles-ramos)      
