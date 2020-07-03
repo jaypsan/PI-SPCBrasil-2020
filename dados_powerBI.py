@@ -52,19 +52,19 @@ for index, row in df_Total_B05_REM.iterrows():
         
     
     if row['vlr_ctrd_fta_tfm'] <= 50000:
-        df_Total_B05_REM.loc[index,'FAIXA'] =  str('0-30')
+        df_Total_B05_REM.loc[index,'FAIXA'] =  str('0-50')
         
     elif row['vlr_ctrd_fta_tfm'] > 50000 and row['vlr_ctrd_fta_tfm'] <= 100000:
-        df_Total_B05_REM.loc[index,'FAIXA'] =  str('30-60')
+        df_Total_B05_REM.loc[index,'FAIXA'] =  str('50-100')
         
     elif row['vlr_ctrd_fta_tfm'] > 100000 and row['vlr_ctrd_fta_tfm'] <= 150000:
-        df_Total_B05_REM.loc[index,'FAIXA'] =  str('60-90')
+        df_Total_B05_REM.loc[index,'FAIXA'] =  str('100-150')
         
     elif row['vlr_ctrd_fta_tfm'] > 150000 and row['vlr_ctrd_fta_tfm'] <= 200000:
-        df_Total_B05_REM.loc[index,'FAIXA'] =  str('90-120')
+        df_Total_B05_REM.loc[index,'FAIXA'] =  str('150-200')
     
     elif row['vlr_ctrd_fta_tfm'] > 200000:
-        df_Total_B05_REM.loc[index,'FAIXA'] =  str('120+')
+        df_Total_B05_REM.loc[index,'FAIXA'] =  str('200+')
 
 df_Total_B05_REM = df_Total_B05_REM.query('(REGIAO != "NaN")')
    
