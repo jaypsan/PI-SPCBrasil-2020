@@ -26,16 +26,18 @@ Note: To visualize our sample you will only need to have Microsoft Power BI. :bl
 
 #### 💻 The frontend is ready to be used for the data sample we recieved, simply open PI-BUREAL.pbix and enjoy. 
 
-#### However, we implemented the possibility to update the data entry. (See the Getting Started section to know how it works)
+#### We implemented the possibility to update the data entry. (See the Getting Started section to know how it works)
 <hr />
 
 ## Getting Started
 
 ### Frontend
 
-The dashboard is ready to be used, no steps required except opening the .pbix file.
+No steps required, except opening the .pbix file.
 
 ### Backend
+
+##### :warning: This is only necessary if you want to updade the data been shown.
 
 #### Updating data entry
   
