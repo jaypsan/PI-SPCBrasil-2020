@@ -11,10 +11,12 @@ ps: it sounds cooler than we thought it would. 🤭
 ### :camera: <a href="SCREENSHOTS.md"> Click here to see all the screenshots
 
 ## :electric_plug: Requirements:
+- Microsoft Power BI >= 2.82
 - Python >= 3.8.2
 - Pandas >= 1.0.5
 - matplotlib >= 3.2.1
-- Microsoft Power BI >= 2.82
+
+Note: To visualize our sample you will only need to have Microsoft Power BI. :blush:
 
 <hr />
 
