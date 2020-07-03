@@ -20,7 +20,7 @@ ps: it sounds cooler than we thought it would. 🤭
 
 ## Getting Started
 
-#### For the data sample that we recieved the dashboard is ready to be used, simply open PI-BUREAL.pbix and enjoy.
+#### The dashboard is ready to be used for the data sample we recieved, simply open PI-BUREAL.pbix and enjoy.
 
 #### However, we implemented the possibility to update the data entry following the steps below:
 
