@@ -48,7 +48,7 @@ No steps required, except opening the .pbix file.
 <img src="screenshots/getting-started/setup.png" width=400px>
 
 - Open PI-BUREAL.pbix
-- On the home tab, click on update (if asked, click yes to enable scripts on powerBI)
+- In the home tab, click on update (if asked, click yes to enable scripts on powerBI)
 <img src="screenshots/getting-started/frontend.png" width=400px>
 
 
