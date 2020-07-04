@@ -1,4 +1,3 @@
-import pandas as pd
 import csv
 from tkinter import *
 import tkinter as tk
@@ -153,9 +152,9 @@ class Application:
             arquivoEND_PSF = open(self.txtEND_PSF.get())
             arquivoOPR = open(self.txtOPR.get())
             
-            arquivoSaidaPSF = open(f'{local}PSF_NOVO.csv', 'w', newline = '')
-            arquivoSaidaEND_PSF = open(f'{local}END_PSF_NOVO.csv', 'w', newline = '')
-            arquivoSaidaOPR = open(f'{local}OPR_NOVO.csv', 'w', newline = '')
+            arquivoSaidaPSF = open(f'{local}\PSF_NOVO.csv', 'w', newline = '')
+            arquivoSaidaEND_PSF = open(f'{local}\END_PSF_NOVO.csv', 'w', newline = '')
+            arquivoSaidaOPR = open(f'{local}\OPR_NOVO.csv', 'w', newline = '')
          
             escreverPSF = csv.writer(arquivoSaidaPSF)
             escreverEND_PSF = csv.writer(arquivoSaidaEND_PSF)
