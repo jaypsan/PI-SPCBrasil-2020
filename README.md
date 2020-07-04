@@ -24,7 +24,7 @@ Note: To visualize our sample you will only need to have Microsoft Power BI. :bl
 
 #### 📤 It emulates a backend processment of the data found in the SPC's database with Python. Then, delivers it to the frontend, witch is represented by the power BI solution.
 
-#### 💻 The frontend is ready to be used for the data sample we recieved, simply open PI-BUREAL.pbix and enjoy. 
+#### 💻 The frontend is ready to be used for the data sample we recieved, simply open VisualData.pbix and enjoy. 
 
 #### We implemented the possibility to update the data entry. (See the Getting Started section to know how it works)
 <hr />
