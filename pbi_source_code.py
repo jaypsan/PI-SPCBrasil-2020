@@ -10,9 +10,9 @@ CENTRO_OESTE = ["DISTRITO FEDERAL", "GOIAS", "MATO GROSSO", "MATO GROSSO DO SUL"
 SUDESTE = ["ESPIRITO SANTO", "MINAS GERAIS", "RIO DE JANEIRO", "SAO PAULO"]
 SUL = ["PARANA","RIO GRANDE DO SUL","SANTA CATARINA"]
 
-df_PSF = pd.read_csv(f'{local}PSF_NOVO.csv', delimiter=',', encoding='iso-8859-1')
-df_END_PSF = pd.read_csv(f'{local}END_PSF_NOVO.csv', delimiter=',', encoding='iso-8859-1')
-df_OPR = pd.read_csv(f'{local}OPR_NOVO.csv', delimiter=',', encoding='iso-8859-1')
+df_PSF = pd.read_csv(f'{local}\PSF_NOVO.csv', delimiter=',', encoding='iso-8859-1')
+df_END_PSF = pd.read_csv(f'{local}\END_PSF_NOVO.csv', delimiter=',', encoding='iso-8859-1')
+df_OPR = pd.read_csv(f'{local}\OPR_NOVO.csv', delimiter=',', encoding='iso-8859-1')
 
 df_PSF = df_PSF.rename(columns={'id': 'ID', 'cpf': 'CPF'})
 df_END_PSF = df_END_PSF.rename(columns={'id_pessoa_fisica': 'ID'})
