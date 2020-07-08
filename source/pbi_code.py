@@ -136,12 +136,12 @@ df_NORDESTE = df_NORDESTE.rename(columns={'des_estado': 'ESTADO', 'vlr_ctrd_fta_
                                    'vlr_ctrd_fta_tfm_rio_grande_do_norte': 'RIO GRANDE DO NORTE', 'vlr_ctrd_fta_tfm_sergipe': 'SERGIPE'})
 
 df_CENTRO_OESTE = df_CENTRO_OESTE.join(df_DISTRITO_FEDERAL, lsuffix='_centro_oeste', rsuffix='_distrito_federal')
-df_CENTRO_OESTE = df_CENTRO_OESTE.join(df_GOIAS, lsuffix='_distrito_federal', rsuffix='_goiais')
-df_CENTRO_OESTE = df_CENTRO_OESTE.join(df_MATO_GROSSO, lsuffix='_goiais', rsuffix='_mato_grosso')
+df_CENTRO_OESTE = df_CENTRO_OESTE.join(df_GOIAS, lsuffix='_distrito_federal', rsuffix='_goias')
+df_CENTRO_OESTE = df_CENTRO_OESTE.join(df_MATO_GROSSO, lsuffix='_goias', rsuffix='_mato_grosso')
 df_CENTRO_OESTE = df_CENTRO_OESTE.join(df_MATO_GROSSO_DO_SUL, lsuffix='_mato_grosso', rsuffix='_mato_grosso_do_sul')
 df_CENTRO_OESTE = df_CENTRO_OESTE.rename(columns={'des_estado': 'ESTADO', 'vlr_ctrd_fta_tfm_centro_oeste': 'CENTRO OESTE', 
                                                   'vlr_ctrd_fta_tfm_distrito_federal': 'DISTRITO FEDERAL',
-                                                  'vlr_ctrd_fta_tfm_goiais': 'GOIAIS', 
+                                                  'vlr_ctrd_fta_tfm_goias': 'GOIAS', 
                                                   'vlr_ctrd_fta_tfm_mato_grosso': 'MATO GROSSO',
                                                   'vlr_ctrd_fta_tfm': 'MATO GROSSO DO SUL'})
 
