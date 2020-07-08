@@ -14,7 +14,7 @@
 
 ## "Requirements" Instalador do Pandas e "UpDate" para tratamento das planilhas .csv
 
-<strong>1.</strong> Abrir o arquivo "requirements" e em seguida pressionte qualquer tecla para continuar. (Realizara a instalação da biblioteca Pandas)</br>
+<strong>1.</strong> Abrir o arquivo "requirements" e em seguida pressione qualquer tecla para continuar (instalação da biblioteca Pandas)</br>
 <strong>2.</strong> Abrir o arquivo "UpDate" para tratamento das planilhas .csv</br>
 <strong>3.</strong> Clicar em "Selecionar" para escolher as respectivas planilhas <strong>pessoa_fisica</strong>, <strong>endereco_pessoa_fisica</strong>, <strong>opr</strong> </br>
 <strong>4.</strong> "Processar"</br>
