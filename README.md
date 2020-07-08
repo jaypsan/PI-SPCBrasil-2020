@@ -1,62 +1,85 @@
+<h1 align="center">
+  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/Logo_transparente-01.png" alt="VisualData" width="300"></a>
+  <br>
+</h1>
+ 
+ <h3 align="center"> Data that makes your work simple. </h3> <br>
+ 
+ <p align="center">
+  <a href="#Motivação">Motivação</a> •
+  <a href="#Descrição-dos-usuários">Descrição dos usuários</a> •
+  <a href="#Instalador-e-Requisitos">Instalador e Requisitos</a> •
+  <a href="#Como-instalar">Como instalar</a> •
+  <a href="#Demonstração">Demonstração</a> •
+  <a href="#Equipe">Equipe</a>
+ </p> 
+ <br>
+ 
+## Motivação
+ 
+Com a nova Lei do Cadastro Positivo, a partir de 09/07/2019 a entrada do consumidor pessoa física ou jurídica passou a ser automática, com o objetivo de facilitar, democratizar o acesso ao crédito e impulsionar a redução da taxa de juros e o desenvolvimento da economia.
+Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a necessidade de gerar valor através desses dados.
 
 
-#### :books: This is a study project in colab with SPC Brasil, all data used are fake but are in sight with the data they possess.
-#### :running: The goal is to develop a business oriented product that can be of value to the company based on the data.
-# So what is our product?
-#### :pushpin: A dashboard that delivers a holistic vision of the vehicle financing scenario in order to provide market intel to vehicle dealers and possibly fabricators.
-ps: it sounds cooler than we thought it would. 🤭
-#### :mag_right: take a hint:
-<img src="screenshots/frontend/dashboard.png" width="700px" />
+<h1 align="center">
+  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/motivacao2.png" alt="motivacao"></a>
+  <br>
+  <br>
+ </h1>
 
-### :camera: <a href="SCREENSHOTS.md"> Click here to see all the screenshots
+## Descrição dos usuários
 
-## :electric_plug: Requirements:
+Classificação do usuário da plataforma:
+- <strong>Representante Comercial - SPC Brasil</strong>: Responsável pela oferta do produto aos clientes
+do SPC Brasil. Auxiliará empresas que buscam por dados necessários para pesquisa de
+mercado no que tange ao financiamento de veículos. 
+
+## Instalador e Requisitos 
+
 - Microsoft Power BI >= 2.82
 - Python >= 3.8.2
 - Pandas >= 1.0.5
 - matplotlib >= 3.2.1
 
-Note: To visualize our sample you will only need to have Microsoft Power BI. :blush:
+O setup do Visual Data instala todas as aplicações necessárias com exceção do Microsoft Power BI.
 
-<hr />
+- <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/setup/visualdata-setup.exe">Download do instalador </a> <br>
+- <a href="https://powerbi.microsoft.com/pt-br/downloads/">Download do Power BI </a>
 
-## About the solution
+## Como instalar
 
-#### 📤 It emulates a backend processment of the data found in the SPC's database with Python. Then, delivers it to the frontend, witch is represented by the power BI solution.
+- <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/guia_install.md">Guia passo a passo de instalação</a>
 
-#### 💻 The frontend is ready to be used for the data sample we recieved, simply open VisualData.pbix and enjoy. 
+## Demonstração
+ 
+![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/gif_git.gif)
 
-#### We implemented the possibility to update the data entry. (See the Getting Started section to know how it works)
-<hr />
+## Equipe
 
-## Getting Started
+<strong>Charles Ramos (PO):</strong>
+- Github - https://github.com/charles-ramos
+- Linkedin - https://www.linkedin.com/in/charlesframos
 
-### Frontend
+<strong>João Pedro Santos (SCRUM MASTER):</strong>
+- Github - https://github.com/QuodJP
+- Linkedin - https://www.linkedin.com/in/jpsantospereira
 
-No steps required, except opening the .pbix file.
+<strong>Beatriz Coutinho (DEV):</strong> 
+- Github - https://github.com/bibiacoutinho
+- Linkedin - https://www.linkedin.com/in/bibiacoutinho
 
-### Backend
+<strong>Felipe Costa (DEV):</strong> 
+- Github - https://github.com/fcostafelipe
+- Linkedin - https://www.linkedin.com/in/fonsecacostafelipe
 
-##### :warning: This is only necessary if you want to updade the data been shown.
+<strong>Daniel Oliveira (DEV): </strong> 
+- Github - https://github.com/danielsantosoliveira 
+- Linkedin - https://www.linkedin.com/in/daniel-santos-oliveira-972a14149
 
-#### Updating data entry
-  
-- Run setup.py
-- Select the respective files
-- Click on the button "Processar"
-- Click on the button "Sair" to close the window
-<img src="screenshots/getting-started/setup.png" width=400px>
+<strong>João Victor Gallina (DEV):</strong>
+- Github - https://github.com/JVMedeiros 
+- Linkedin - https://www.linkedin.com/in/joão-medeiros
 
-- Open PI-BUREAL.pbix
-- In the home tab, click on update (if asked, click yes to enable scripts on powerBI)
-<img src="screenshots/getting-started/frontend.png" width=400px>
-
-
-## Team (5) Bureal-SqPy 
-[*Charles Ramos (PO)*](https://github.com/charles-ramos)      
-[*João Pedro Santos (MASTER)*](https://github.com/QuodJP)      
-[*Beatriz Coutinho*](https://github.com/bibiacoutinho)      
-[*Felipe Costa*](https://github.com/fcostafelipe)      
-[*Daniel Oliveira*](https://github.com/danielsantosoliveira)                                                                           
-[*João Victor Gallina*](https://github.com/JVMedeiros)                                                                                 
-[*Marcelo Uchôas*](https://github.com/marcelouchoas)
+<strong>Marcelo Uchôas (DEV):</strong>
+- Github - https://github.com/marcelouchoas
+- Linkedin - https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b
