@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/sprint-6/img_git_transparente-01.png" alt="VisualData" width="300"></a>
+  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/Logo_transparente-01.png" alt="VisualData" width="300"></a>
   <br>
 </h1>
  
@@ -22,7 +22,7 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 
 
 <h1 align="center">
-  <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/motivacao2.png" alt="motivacao"></a>
+  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/motivacao2.png" alt="motivacao"></a>
   <br>
   <br>
  </h1>
@@ -49,11 +49,11 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 ## Como instalar
 
-- <a href="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/guia_install_readme.md">Guia passo a passo de instalação</a>
+- <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/guia_install.md">Guia passo a passo de instalação</a>
 
 ## Demonstração
  
-![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/gif_git.gif)
+![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/gif_git.gif)
 
 ## Equipe
 
