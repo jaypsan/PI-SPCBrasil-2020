@@ -57,7 +57,7 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 ## Equipe
 
-Charles Ramos (PO) <a href="https://github.com/charles-ramos"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" width="20"> </a> <a href="https://www.linkedin.com/in/charlesframos/"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" width="20"> </a> <br>
+//Charles Ramos (PO) <a href="https://github.com/charles-ramos"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" //width="20"> </a> <a href="https://www.linkedin.com/in/charlesframos/"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" //width="20"> </a> <br>
 
 João Pedro Santos (SCRUM MASTER) <a href="https://github.com/QuodJP"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" width="20"> </a> <a href="https://www.linkedin.com/in/jpsantospereira/"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" width="20"> </a> <br>
 
