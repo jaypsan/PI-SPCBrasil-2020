@@ -75,7 +75,7 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 - Github - https://github.com/fcostafelipe
 - Linkedin - https://www.linkedin.com/in/fonsecacostafelipe/
 
-<strong>Daniel Oliveira (DEV): 
+<strong>Daniel Oliveira (DEV): </strong> 
 - Github - https://github.com/danielsantosoliveira 
 - Linkedin - https://www.linkedin.com/in/daniel-santos-oliveira-972a14149/
 
