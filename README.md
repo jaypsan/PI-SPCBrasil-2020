@@ -68,21 +68,21 @@ João Pedro Santos (SCRUM MASTER):
 - <a href="https://www.linkedin.com/in/jpsantospereira/">Linkedin</a> <br>
 
 Beatriz Coutinho (TEAM DEV): 
-<a href="https://github.com/bibiacoutinho">Github</a> 
-<a href="https://www.linkedin.com/in/bibiacoutinho">Linkedin</a> <br>
+- <a href="https://github.com/bibiacoutinho">Github</a> 
+- <a href="https://www.linkedin.com/in/bibiacoutinho">Linkedin</a> <br>
 
 Felipe Costa (TEAM DEV): 
-<a href="https://github.com/fcostafelipe"></a>Github</a>
-<a href="https://www.linkedin.com/in/fonsecacostafelipe/">Linkedin</a> <br>
+- <a href="https://github.com/fcostafelipe"></a>Github</a>
+- <a href="https://www.linkedin.com/in/fonsecacostafelipe/">Linkedin</a> <br>
 
 Daniel Oliveira (TEAM DEV): 
-<a href="https://github.com/danielsantosoliveira">Github</a> 
-<a href="https://www.linkedin.com/in/daniel-santos-oliveira-972a14149/">Linkedin</a> <br>
+- <a href="https://github.com/danielsantosoliveira">Github</a> 
+- <a href="https://www.linkedin.com/in/daniel-santos-oliveira-972a14149/">Linkedin</a> <br>
 
 João Victor Gallina (TEAM DEV):
-<a href="https://github.com/JVMedeiros">Github</a> 
-<a href="https://www.linkedin.com/in/joão-medeiros">Linkedin</a> <br>
+- <a href="https://github.com/JVMedeiros">Github</a> 
+- <a href="https://www.linkedin.com/in/joão-medeiros">Linkedin</a> <br>
 
 Marcelo Uchôas (TEAM DEV):
-<a href="https://github.com/marcelouchoas">Github</a> 
-<a href="https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/">Linkedin</a> <br>
+- <a href="https://github.com/marcelouchoas">Github</a> 
+- <a href="https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/">Linkedin</a> <br>
