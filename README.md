@@ -60,29 +60,29 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 
 <strong>Charles Ramos (PO):</strong>
-- <a href="https://github.com/charles-ramos">Github</a>
-- <a href="https://www.linkedin.com/in/charlesframos/">Linkedin</a>
+- Github - https://github.com/charles-ramos
+- Linkedin - https://www.linkedin.com/in/charlesframos/
 
-João Pedro Santos (SCRUM MASTER):
-- <a href="https://github.com/QuodJP">Github</a> 
-- <a href="https://www.linkedin.com/in/jpsantospereira/">Linkedin</a> <br>
+<strong>João Pedro Santos (SCRUM MASTER):</strong>
+- Github - https://github.com/QuodJP"
+- Linkedin - https://www.linkedin.com/in/jpsantospereira/
 
-Beatriz Coutinho (TEAM DEV): 
-- <a href="https://github.com/bibiacoutinho">Github</a> 
-- <a href="https://www.linkedin.com/in/bibiacoutinho">Linkedin</a> <br>
+<strong>Beatriz Coutinho (DEV):</strong> 
+- Github - https://github.com/bibiacoutinho"
+- Linkedin - https://www.linkedin.com/in/bibiacoutinho
 
-Felipe Costa (TEAM DEV): 
-- <a href="https://github.com/fcostafelipe"></a>Github</a>
-- <a href="https://www.linkedin.com/in/fonsecacostafelipe/">Linkedin</a> <br>
+<strong>Felipe Costa (DEV):</strong> 
+- Github - https://github.com/fcostafelipe
+- Linkedin - https://www.linkedin.com/in/fonsecacostafelipe/
 
-Daniel Oliveira (TEAM DEV): 
-- <a href="https://github.com/danielsantosoliveira">Github</a> 
-- <a href="https://www.linkedin.com/in/daniel-santos-oliveira-972a14149/">Linkedin</a> <br>
+<strong>Daniel Oliveira (DEV): 
+- Github - https://github.com/danielsantosoliveira 
+- Linkedin - https://www.linkedin.com/in/daniel-santos-oliveira-972a14149/
 
-João Victor Gallina (TEAM DEV):
-- <a href="https://github.com/JVMedeiros">Github</a> 
-- <a href="https://www.linkedin.com/in/joão-medeiros">Linkedin</a> <br>
+<strong>João Victor Gallina (DEV):</strong>
+- Github - https://github.com/JVMedeiros 
+- Linkedin - https://www.linkedin.com/in/joão-medeiros
 
-Marcelo Uchôas (TEAM DEV):
-- <a href="https://github.com/marcelouchoas">Github</a> 
-- <a href="https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/">Linkedin</a> <br>
+<strong>Marcelo Uchôas (DEV):</strong>
+- Github - https://github.com/marcelouchoas
+- Linkedin - https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/
