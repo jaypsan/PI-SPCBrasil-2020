@@ -16,7 +16,7 @@
 
 <strong>1.</strong> Abrir o arquivo "requirements" e em seguida pressionte qualquer tecla para continuar. (Realizara a instalação da biblioteca Pandas)</br>
 <strong>2.</strong> Abrir o arquivo "UpDate" para tratamento das planilhas .csv</br>
-<strong>3.</strong> Clicar em "Selecionar" para escolher as respectivas planilhas pessoa_fisica, endereco_pessoa_fisica, opr </br>
+<strong>3.</strong> Clicar em "Selecionar" para escolher as respectivas planilhas <strong>pessoa_fisica</strong>, <strong>endereco_pessoa_fisica</strong>, <strong>opr</strong> </br>
 <strong>4.</strong> "Processar"</br>
 <strong>5.</strong> "Sair"</br>
 
