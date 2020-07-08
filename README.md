@@ -1,8 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/sprint-6/img_git_transparente-01.png" alt="VisualData" width="300"></a>
   <br>
-  <br>
- </h1>
+</h1>
  
  <h3 align="center"> Data that makes your work simple. </h3> <br>
  
@@ -14,6 +13,7 @@
   <a href="#Demonstração">Demonstração</a> •
   <a href="#Equipe">Equipe</a>
  </p> 
+ <br>
  
 ## Motivação
  
