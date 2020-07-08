@@ -64,11 +64,11 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 - Linkedin - https://www.linkedin.com/in/charlesframos/
 
 <strong>João Pedro Santos (SCRUM MASTER):</strong>
-- Github - https://github.com/QuodJP"
+- Github - https://github.com/QuodJP
 - Linkedin - https://www.linkedin.com/in/jpsantospereira/
 
 <strong>Beatriz Coutinho (DEV):</strong> 
-- Github - https://github.com/bibiacoutinho"
+- Github - https://github.com/bibiacoutinho
 - Linkedin - https://www.linkedin.com/in/bibiacoutinho
 
 <strong>Felipe Costa (DEV):</strong> 
