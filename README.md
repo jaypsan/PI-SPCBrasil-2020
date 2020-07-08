@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="[Imgur](https://i.imgur.com/LYMGueQ.png)" alt="VisualData" width="300"></a>
+  [Imgur](https://i.imgur.com/LYMGueQ.png)
   <br>
 </h1>
  
