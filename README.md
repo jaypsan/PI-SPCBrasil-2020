@@ -49,7 +49,7 @@ O instalador do Visual Data instala todas as aplicações necessárias com exce�
 
 ## Como instalar
 
-- <a href="guia_install_readme.md">Guia passo a passo de instalação</a>
+- <a href="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/guia_install_readme.md">Guia passo a passo de instalação</a>
 
 ## Demonstração
  
