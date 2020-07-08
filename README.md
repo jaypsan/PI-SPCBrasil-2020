@@ -57,10 +57,16 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 ## Equipe
 
-[*Charles Ramos (PO)*](https://github.com/charles-ramos)      
-[*João Pedro Santos (SCRUM MASTER)*](https://github.com/QuodJP)      
-[*Beatriz Coutinho (TEAM DEV)*](https://github.com/bibiacoutinho)      
-[*Felipe Costa (TEAM DEV)*](https://github.com/fcostafelipe)      
-[*Daniel Oliveira (TEAM DEV)*](https://github.com/danielsantosoliveira)                                                                           
-[*João Victor Gallina (TEAM DEV)*](https://github.com/JVMedeiros)                                                                                 
-[*Marcelo Uchôas (TEAM DEV)*](https://github.com/marcelouchoas)
+Charles Ramos (PO) <a href="https://github.com/charles-ramos"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" width="20"> </a> <a href="https://www.linkedin.com/in/charlesframos/"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" width="20"> </a> <br>
+
+João Pedro Santos (SCRUM MASTER) <a href="https://github.com/QuodJP"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" width="20"> </a> <a href="https://www.linkedin.com/in/jpsantospereira/"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" width="20"> </a> <br>
+
+Beatriz Coutinho (TEAM DEV) <a href="https://github.com/bibiacoutinho"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" width="20"> </a> <a href="https://www.linkedin.com/in/bibiacoutinho"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" width="20"> </a> <br>
+
+Felipe Costa (TEAM DEV) <a href="https://github.com/fcostafelipe"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" width="20"> </a> <a href="https://www.linkedin.com/in/fonsecacostafelipe/"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" width="20"> </a> <br>
+
+Daniel Oliveira (TEAM DEV) <a href="https://github.com/danielsantosoliveira"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" width="20"> </a> <a href="https://www.linkedin.com/in/daniel-santos-oliveira-972a14149/"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" width="20"> </a> <br>
+
+João Victor Gallina (TEAM DEV) <a href="https://github.com/JVMedeiros"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" width="20"> </a> <a href="https://www.linkedin.com/in/joão-medeiros"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" width="20"> </a> <br>
+
+Marcelo Uchôas (TEAM DEV) <a href="https://github.com/marcelouchoas"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/github-logo.png" width="20"> </a> <a href="https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/"> <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/linkedin.png" width="20"> </a> <br>
