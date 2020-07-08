@@ -21,21 +21,12 @@ Com a nova Lei do Cadastro Positivo, a partir de 09/07/2019 a entrada do consumi
 Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a necessidade de gerar valor através desses dados.
 
 
-| O Problema é... |
-| :---: | 
-| Devido ao cenário atual, a queda de veículos emplacados caiu 35,64% no acumulado anual, comparado ao ano anterior, de acordo com relatório de maio/2020 da Fenabrave. Fabricantes e Concessionárias precisam se adaptar aos novos desafios que o cenário atual exige. |
+<h1 align="center">
+  <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/motivacao.jpg" alt="motivacao"></a>
+  <br>
+  <br>
+ </h1>
 
-| Que afeta... |
-| :---: | 
-| Operadores de crédito, fabricantes e concessionárias de veículos. Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros. | 
-
-| O impacto disso é... |
-| :---: | 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Déficit das vendas e da fabricação de veículos e geração de estoque &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-
-| A solução seria... |
-| :---: | 
-| Orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais como, logística, produção, publicidade, redução de custos, localização e contratação de fornecedores das fabricantes de automóveis. |
 
 ## Descrição dos usuários
 
