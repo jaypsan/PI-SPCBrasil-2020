@@ -27,7 +27,6 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
   <br>
  </h1>
 
-
 ## Descrição dos usuários
 
 Classificação do usuário da plataforma:
@@ -56,8 +55,6 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 ![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/gif_git.gif)
 
 ## Equipe
-
-
 
 <strong>Charles Ramos (PO):</strong>
 - Github - https://github.com/charles-ramos
