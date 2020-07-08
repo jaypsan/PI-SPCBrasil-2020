@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/Logo_transparente-01.png" alt="VisualData" width="300"></a>
+  <img src="[Imgur](https://i.imgur.com/LYMGueQ.png)" alt="VisualData" width="300"></a>
   <br>
 </h1>
  
