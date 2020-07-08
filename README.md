@@ -61,11 +61,11 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 <strong>Charles Ramos (PO):</strong>
 - Github - https://github.com/charles-ramos
-- Linkedin - https://www.linkedin.com/in/charlesframos/
+- Linkedin - https://www.linkedin.com/in/charlesframos
 
 <strong>João Pedro Santos (SCRUM MASTER):</strong>
 - Github - https://github.com/QuodJP
-- Linkedin - https://www.linkedin.com/in/jpsantospereira/
+- Linkedin - https://www.linkedin.com/in/jpsantospereira
 
 <strong>Beatriz Coutinho (DEV):</strong> 
 - Github - https://github.com/bibiacoutinho
@@ -73,11 +73,11 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 <strong>Felipe Costa (DEV):</strong> 
 - Github - https://github.com/fcostafelipe
-- Linkedin - https://www.linkedin.com/in/fonsecacostafelipe/
+- Linkedin - https://www.linkedin.com/in/fonsecacostafelipe
 
 <strong>Daniel Oliveira (DEV): </strong> 
 - Github - https://github.com/danielsantosoliveira 
-- Linkedin - https://www.linkedin.com/in/daniel-santos-oliveira-972a14149/
+- Linkedin - https://www.linkedin.com/in/daniel-santos-oliveira-972a14149
 
 <strong>João Victor Gallina (DEV):</strong>
 - Github - https://github.com/JVMedeiros 
@@ -85,4 +85,4 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 <strong>Marcelo Uchôas (DEV):</strong>
 - Github - https://github.com/marcelouchoas
-- Linkedin - https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/
+- Linkedin - https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b
