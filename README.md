@@ -42,7 +42,7 @@ mercado no que tange ao financiamento de veículos.
 - Pandas >= 1.0.5
 - matplotlib >= 3.2.1
 
-O instalador do Visual Data instala todas as aplicações necessárias com exceção do Microsoft Powre BI.
+O setup do Visual Data instala todas as aplicações necessárias com exceção do Microsoft Power BI.
 
 - <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/setup/visualdata-setup.exe">Download do instalador </a> <br>
 - <a href="https://powerbi.microsoft.com/pt-br/downloads/">Download do Power BI </a>
@@ -58,9 +58,9 @@ O instalador do Visual Data instala todas as aplicações necessárias com exce�
 ## Equipe
 
 [*Charles Ramos (PO)*](https://github.com/charles-ramos)      
-[*João Pedro Santos (TEAM DEV)*](https://github.com/QuodJP)      
+[*João Pedro Santos (SCRUM MASTER)*](https://github.com/QuodJP)      
 [*Beatriz Coutinho (TEAM DEV)*](https://github.com/bibiacoutinho)      
 [*Felipe Costa (TEAM DEV)*](https://github.com/fcostafelipe)      
 [*Daniel Oliveira (TEAM DEV)*](https://github.com/danielsantosoliveira)                                                                           
 [*João Victor Gallina (TEAM DEV)*](https://github.com/JVMedeiros)                                                                                 
-[*Marcelo Uchôas TEAM DEV*](https://github.com/marcelouchoas)
+[*Marcelo Uchôas (TEAM DEV)*](https://github.com/marcelouchoas)
