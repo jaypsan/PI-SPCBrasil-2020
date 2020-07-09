@@ -22,7 +22,7 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 
 
 <h1 align="center">
-  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/motivacao2.png" alt="motivacao"></a>
+  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/Motivation-01.png" alt="motivacao"></a>
   <br>
   <br>
  </h1>
