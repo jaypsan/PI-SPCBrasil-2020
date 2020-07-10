@@ -57,7 +57,7 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 ## Demonstração
  
-![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/gif2.gif)
+![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/gif_demonstracao.gif)
 
 ## Equipe
 
