@@ -20,12 +20,17 @@
 Com a nova Lei do Cadastro Positivo, a partir de 09/07/2019 a entrada do consumidor pessoa física ou jurídica passou a ser automática, com o objetivo de facilitar, democratizar o acesso ao crédito e impulsionar a redução da taxa de juros e o desenvolvimento da economia.
 Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a necessidade de gerar valor através desses dados.
 
+- <strong>O Problema é:</strong><br>
+Devido ao cenário atual, a queda de veículos emplacados caiu 35,64% no acumulado anual, comparado ao ano anterior, de acordo com relatório de maio/2020 da Fenabrave. Fabricantes e concessionárias precisam se adaptar aos novos desafios que o cenário atual exige
 
-<h1 align="center">
-  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/motivacao2.png" alt="motivacao"></a>
-  <br>
-  <br>
- </h1>
+- <strong>Que afeta:</strong><br>
+Operadores de crédito, fabricantes e concessionárias de veículos. Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros.
+
+- <strong>O impacto disso é:</strong><br>
+Déficit das vendas e da fabricação de veículos e geração de estoque.
+
+- <strong>A solução seria:</strong><br>
+Orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais como, logística, produção, publicidade, redução de custos, localização e contratação de fornecedores das fabricantes de automóveis.
 
 ## Descrição dos usuários
 
@@ -52,7 +57,7 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 ## Demonstração
  
-![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/gif_git.gif)
+![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/gif2.gif)
 
 ## Equipe
 
