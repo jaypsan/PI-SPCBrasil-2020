@@ -43,8 +43,8 @@ mercado no que tange ao financiamento de veículos.
 
 - Microsoft Power BI >= 2.82
 - Python >= 3.8.2
-- Pandas >= 1.0.5
-- matplotlib >= 3.2.1
+- Pandas >= 1.0.1
+- matplotlib >= 3.2.2
 
 O setup do Visual Data instala todas as aplicações necessárias com exceção do Microsoft Power BI.
 
