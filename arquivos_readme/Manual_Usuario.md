@@ -13,25 +13,25 @@
 <a href="#2.3. Atualização dos dados tratados">2.3. Atualização dos dados tratados </a>
 <a href="#3. Indicadores do sistema">3. Indicadores do sistema </a>
 
-##1. Introdução
+## 1. Introdução
 Esse documento tem por objetivo guiar o usuário quanto à instalação e utilização da
 solução “Visual Data”.
 Os passos para instalação explicação de conceitos serão descritos de forma detalhada
 nos próximos tópicos.
 
-##2. Instalação do Sistema
+## 2. Instalação do Sistema
 Esta seção demonstra os procedimentos necessários para que o usuário instale a
 solução corretamente.
 Para Instalação da solução, basta seguir os passos descritos abaixo:
-1. Abra o arquivo “Visual Data Setup”.
-2. Execute o arquivo como administrador.
-3. Selecione o idioma e clique em "OK".
-4. Escolha o diretório (o recomendável é que mantenha o padrão) e clique em
+- 1. Abra o arquivo “Visual Data Setup”.
+- 2. Execute o arquivo como administrador.
+- 3. Selecione o idioma e clique em "OK".
+- 4. Escolha o diretório (o recomendável é que mantenha o padrão) e clique em
 "Próximo >".
-5. "Próximo >".
-6. Escolha a opção "Criar um atalho na área de trabalho" e clique em "Próximo >".
-7. "Instalar".
-8. "Concluir".
+- 5. "Próximo >".
+- 6. Escolha a opção "Criar um atalho na área de trabalho" e clique em "Próximo >".
+- 7. "Instalar".
+- 8. "Concluir".
 
 <h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.png"></a></h1>
 
@@ -45,25 +45,25 @@ Abra o arquivo "requirements" e em seguida pressione qualquer tecla para continu
 
 Em seguida, você deverá tratar as planilhas .csv. Para isso, prossiga com as
 instruções abaixo:
-1. Abra o arquivo "UpDate" para tratamento das planilhas em formato .csv.
-2. Clique em "Selecionar" para escolher as respectivas planilhas:
+- 1. Abra o arquivo "UpDate" para tratamento das planilhas em formato .csv.
+- 2. Clique em "Selecionar" para escolher as respectivas planilhas:
 “pessoa_fisica”, “endereco_pessoa_fisica” e “opr".
 
 <h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.2.png"></a></h1>
 
-3. "Processar".
+- 3. "Processar".
 
 <h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.3.png"></a></h1>
 
-4. "Sair".
+- 4. "Sair".
 
-##2.1. Tratar nova remessa de dados
+## 2.1. Tratar nova remessa de dados
 Para tratamento de novos dados, basta executar o arquivo “UpDate”, insira as novas
 planilhas e processe os dados novamente.
 Durante este processo é importante que a solução não esteja sendo executada em
 segundo plano.
 
-##2.2. Visualização dos dados tratados
+## 2.2. Visualização dos dados tratados
 Para visualização dos dados tratados, basta abrir a solução (arquivo “VisualData.pbix”).
 
 ##2.3. Atualização dos dados tratados
@@ -73,7 +73,7 @@ imagem abaixo e os dados serão atualizados automaticamente.
 
 <h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/3.png"></a></h1>
 
-##3. Indicadores do sistema
+## 3. Indicadores do sistema
 Este tópico aborda cada indicador, descrevendo seus conceitos e o que é apresentado
 em cada indicador, conforme descrições abaixo:
 ####Guia “Nacional”
