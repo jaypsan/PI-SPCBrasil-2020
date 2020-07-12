@@ -33,7 +33,8 @@ Para Instalação da solução, basta seguir os passos descritos abaixo:
 - 7. "Instalar".
 - 8. "Concluir".
 
-<h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.png"></a></h1>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.png" width="600"></a>
+  
 
 Após o término da instalação do arquivo “visualdata-setup”, você terá instalado o arquivo
 de configuração do sistema e o python 3.8.2 em seu computador.
@@ -41,7 +42,7 @@ O próximo passo, é instalar as bibliotecas do python para funcionamento adequa
 sistema.
 Abra o arquivo "requirements" e em seguida pressione qualquer tecla para continuar.
 
-<h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.1.png"></a></h1>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.1.png" width="600"></a>
 
 Em seguida, você deverá tratar as planilhas .csv. Para isso, prossiga com as
 instruções abaixo:
@@ -49,11 +50,11 @@ instruções abaixo:
 - 2. Clique em "Selecionar" para escolher as respectivas planilhas:
 “pessoa_fisica”, “endereco_pessoa_fisica” e “opr".
 
-<h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.2.png"></a></h1>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.2.png" width="600"></a>
 
 - 3. "Processar".
 
-<h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.3.png"></a></h1>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.3.png" width="600"></a>
 
 - 4. "Sair".
 
@@ -71,7 +72,7 @@ Caso haja alguma atualização em alguma das planilhas que foram importadas, nã
 necessário que sejam tratadas novamente, basta clicar em “Atualizar”, conforme
 imagem abaixo e os dados serão atualizados automaticamente.
 
-<h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/3.png"></a></h1>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/3.png" width="600"></a>
 
 ## 3. Indicadores do sistema
 Este tópico aborda cada indicador, descrevendo seus conceitos e o que é apresentado
@@ -89,7 +90,7 @@ financiamento e participação de cada região no mercado nacional.
 - 5. Quantidade Brasil por faixa e região: Comparativo de financiamento de
 veículos entre as regiões, agrupados por faixa de valor.
 
-<h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/3.1.png"></a></h1>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/3.1.png" width="600"></a>
 
 
 ### Guia “Região”
@@ -106,4 +107,4 @@ financiamentos entre estados.
 - 6. Valor Total Financiamento por Estado: Comparativo do montante de
 financiamentos entre estados.
 
-<h1 align = "https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/3.2.png"></a></h1>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/3.2.png" width="600"></a>
