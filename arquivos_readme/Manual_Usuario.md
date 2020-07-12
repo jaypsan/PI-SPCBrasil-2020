@@ -1,4 +1,4 @@
-<h1 align="center"> Manual de Usuário </h1> <br>
+<h1 align="center"> Manual de Usuário </h1> 
 
 <h1 align="center">
   <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/Logo_transparente-01.png" alt="VisualData" width="300"></a>
@@ -6,14 +6,14 @@
 </h1>
 
 
-<a href="#1.-Introdução">1. Introdução </a><br>
+<a href="#Introdução">1. Introdução </a><br>
 <a href="#2.-Instalação-do-Sistema">2. Instalação do Sistema </a><br> 
 <a href="#2.1.-Tratar-nova-remessa-de-dados">2.1. Tratar nova remessa de dados </a><br>
 <a href="#2.2.-Visualização-dos-dados-tratados">2.2. Visualização dos dados tratados </a><br>
 <a href="#2.3.-Atualização-dos-dados-tratados">2.3. Atualização dos dados tratados </a><br>
 <a href="#3.-Indicadores-do-sistema">3. Indicadores do sistema </a>
 
-## 1. Introdução
+## Introdução
 Esse documento tem por objetivo guiar o usuário quanto à instalação e utilização da
 solução “Visual Data”.
 Os passos para instalação explicação de conceitos serão descritos de forma detalhada
