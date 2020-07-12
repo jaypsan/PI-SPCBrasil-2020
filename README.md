@@ -43,7 +43,7 @@ mercado no que tange ao financiamento de veículos.
 
 ## Arquitetura do Sistema
 
-<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/arquitetura.png"></a>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/arquitetura2.png"></a>
 
 
 ## Instalador e Requisitos 
