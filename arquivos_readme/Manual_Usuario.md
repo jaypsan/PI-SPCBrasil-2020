@@ -6,20 +6,20 @@
 </h1>
 
 
-<a href="#Introdução">1. Introdução </a><br>
+<a href="#1.Introdução">1. Introdução </a><br>
 <a href="#Instalação-do-Sistema">2. Instalação do Sistema </a><br> 
 <a href="#Tratar-nova-remessa-de-dados">2.1. Tratar nova remessa de dados </a><br>
 <a href="#Visualização-dos-dados-tratados">2.2. Visualização dos dados tratados </a><br>
 <a href="#Atualização-dos-dados-tratados">2.3. Atualização dos dados tratados </a><br>
 <a href="#Indicadores-do-sistema">3. Indicadores do sistema </a>
 
-## Introdução
+## 1. Introdução
 Esse documento tem por objetivo guiar o usuário quanto à instalação e utilização da
 solução “Visual Data”.
 Os passos para instalação explicação de conceitos serão descritos de forma detalhada
 nos próximos tópicos.
 
-## Instalação do Sistema
+## 2. Instalação do Sistema
 Esta seção demonstra os procedimentos necessários para que o usuário instale a
 solução corretamente.
 Para Instalação da solução, basta seguir os passos descritos abaixo:
