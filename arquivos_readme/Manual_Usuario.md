@@ -23,7 +23,7 @@ nos próximos tópicos.
 Esta seção demonstra os procedimentos necessários para que o usuário instale a
 solução corretamente.
 Para Instalação da solução, basta seguir os passos descritos abaixo:
-#### 1. Abra o arquivo “Visual Data Setup”.
+###### 1. Abra o arquivo “Visual Data Setup”.
 - 2. Execute o arquivo como administrador.
 - 3. Selecione o idioma e clique em "OK".
 - 4. Escolha o diretório (o recomendável é que mantenha o padrão) e clique em
