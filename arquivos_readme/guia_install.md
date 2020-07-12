@@ -2,13 +2,13 @@
 
 ## Visual Data Setup
 
-<strong>1.</strong> Executar arquivo como administrador</br>
-<strong>2.</strong> Selecionar o idioma e clicar em "OK"</br>
-<strong>3.</strong> Escolher o diretório (de preferência manter o diretório padrão.) e clicar em "Próximo >"</br>
-<strong>4.</strong> "Próximo >"</br>
-<strong>5.</strong> Escolher a opção "Criar um atalho na área de trabalho" e clicar em "Próximo >"</br>
-<strong>6.</strong> "Instalar"</br>
-<strong>7.</strong> "Concluir"
+<strong>1.</strong> Executar arquivo como administrador.</br>
+<strong>2.</strong> Selecionar o idioma e clicar em "OK".</br>
+<strong>3.</strong> Escolher o diretório (de preferência manter o diretório padrão.) e clicar em "Próximo >".</br>
+<strong>4.</strong> "Próximo >".</br>
+<strong>5.</strong> Escolher a opção "Criar um atalho na área de trabalho" e clicar em "Próximo >".</br>
+<strong>6.</strong> "Instalar".</br>
+<strong>7.</strong> "Concluir".
 
 <h1 align = "center"><img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/install_visualdata.jpg" alt="passoapassoisntalacao"></a></h1>
 
