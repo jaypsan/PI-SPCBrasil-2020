@@ -19,7 +19,7 @@ solução “Visual Data”.
 Os passos para instalação explicação de conceitos serão descritos de forma detalhada
 nos próximos tópicos.
 
-## 2. Instalação do Sistema
+## Instalação do Sistema
 Esta seção demonstra os procedimentos necessários para que o usuário instale a
 solução corretamente.
 Para Instalação da solução, basta seguir os passos descritos abaixo:
