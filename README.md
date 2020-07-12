@@ -1,5 +1,7 @@
 <h1 align="center">
+
   <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/Logo_nome_transparente-01.png" alt="VisualData" width="300"></a>
+
   <br>
 </h1>
  
