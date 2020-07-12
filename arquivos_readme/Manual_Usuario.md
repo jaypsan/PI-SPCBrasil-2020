@@ -7,11 +7,11 @@
 
 
 <a href="#Introdução">1. Introdução </a><br>
-<a href="#2.-Instalação-do-Sistema">2. Instalação do Sistema </a><br> 
-<a href="#2.1.-Tratar-nova-remessa-de-dados">2.1. Tratar nova remessa de dados </a><br>
-<a href="#2.2.-Visualização-dos-dados-tratados">2.2. Visualização dos dados tratados </a><br>
-<a href="#2.3.-Atualização-dos-dados-tratados">2.3. Atualização dos dados tratados </a><br>
-<a href="#3.-Indicadores-do-sistema">3. Indicadores do sistema </a>
+<a href="#Instalação-do-Sistema">2. Instalação do Sistema </a><br> 
+<a href="#Tratar-nova-remessa-de-dados">2.1. Tratar nova remessa de dados </a><br>
+<a href="#Visualização-dos-dados-tratados">2.2. Visualização dos dados tratados </a><br>
+<a href="#Atualização-dos-dados-tratados">2.3. Atualização dos dados tratados </a><br>
+<a href="#Indicadores-do-sistema">3. Indicadores do sistema </a>
 
 ## Introdução
 Esse documento tem por objetivo guiar o usuário quanto à instalação e utilização da
