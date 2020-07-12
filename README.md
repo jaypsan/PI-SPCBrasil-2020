@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/Logo_transparente-01.png" alt="VisualData" width="300"></a>
+  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/Logo_nome_transparente-01.png" alt="VisualData" width="300"></a>
   <br>
 </h1>
  
@@ -8,9 +8,11 @@
  <p align="center">
   <a href="#Motivação">Motivação</a> •
   <a href="#Descrição-dos-usuários">Descrição dos usuários</a> •
+  <a href="#Arquitetura-do-sistema">Arquitetura do Sistema</a> •
   <a href="#Instalador-e-Requisitos">Instalador e Requisitos</a> •
   <a href="#Como-instalar">Como instalar</a> •
   <a href="#Demonstração">Demonstração</a> •
+  <a href="#Manual-de-Usuário">Manual de Usuário</a> •
   <a href="#Equipe">Equipe</a>
  </p> 
  <br>
@@ -39,6 +41,11 @@ Classificação do usuário da plataforma:
 do SPC Brasil. Auxiliará empresas que buscam por dados necessários para pesquisa de
 mercado no que tange ao financiamento de veículos. 
 
+## Arquitetura do Sistema
+
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/arquitetura.png"></a>
+
+
 ## Instalador e Requisitos 
 
 - Microsoft Power BI >= 2.82
@@ -58,6 +65,10 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 ## Demonstração
  
 ![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/gif_demonstracao.gif)
+
+## Manual de Usuário
+
+- <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/Manual_Usuario.md">Guia do Manual de Usuário</a>
 
 ## Equipe
 
