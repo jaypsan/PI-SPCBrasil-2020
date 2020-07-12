@@ -1,17 +1,10 @@
 <h1 align="center"> Manual de Usuário </h1> 
 
 <h1 align="center">
-  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/Logo_transparente-01.png" alt="VisualData" width="300"></a>
+  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/Logo_nome_transparente-01.png" alt="VisualData" width="300"></a>
   <br>
 </h1>
 
-
-<a href="## 1.-Introdução">1. Introdução </a><br>
-<a href="#Instalação-do-Sistema">2. Instalação do Sistema </a><br> 
-<a href="#Tratar-nova-remessa-de-dados">2.1. Tratar nova remessa de dados </a><br>
-<a href="#Visualização-dos-dados-tratados">2.2. Visualização dos dados tratados </a><br>
-<a href="#Atualização-dos-dados-tratados">2.3. Atualização dos dados tratados </a><br>
-<a href="#Indicadores-do-sistema">3. Indicadores do sistema </a>
 
 ## 1. Introdução
 Esse documento tem por objetivo guiar o usuário quanto à instalação e utilização da
@@ -32,7 +25,7 @@ Para Instalação da solução, basta seguir os passos descritos abaixo:
 ###### 7. "Instalar".
 ###### 8. "Concluir".
 
-<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.png" width="600"></a>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.png" width="800"></a>
   
 
 Após o término da instalação do arquivo “visualdata-setup”, você terá instalado o arquivo
@@ -41,7 +34,7 @@ O próximo passo, é instalar as bibliotecas do python para funcionamento adequa
 sistema.
 Abra o arquivo "requirements" e em seguida pressione qualquer tecla para continuar.
 
-<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.1.png" width="600"></a>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.1.png" width="800"></a>
 
 Em seguida, você deverá tratar as planilhas .csv. Para isso, prossiga com as
 instruções abaixo:
@@ -49,11 +42,11 @@ instruções abaixo:
 ###### 2. Clique em "Selecionar" para escolher as respectivas planilhas: “pessoa_fisica”, “endereco_pessoa_fisica” e “opr".
 
 
-<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.2.png" width="600"></a>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.2.png" width="800"></a>
 
 ###### 3. "Processar".
 
-<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.3.png" width="600"></a>
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/2.3.png" width="800"></a>
 
 ###### 4. "Sair".
 
