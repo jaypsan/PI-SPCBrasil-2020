@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/logo_transparente.png" alt="VisualData" width="300"></a> <!== Image source:https://read01.com/52z24G.html#.XwcdOyhKiUk> 
+
+  <img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/Logo_nome_transparente-01.png" alt="VisualData" width="300"></a>
+
   <br>
 </h1>
  
@@ -8,9 +10,11 @@
  <p align="center">
   <a href="#Motivação">Motivação</a> •
   <a href="#Descrição-dos-usuários">Descrição dos usuários</a> •
+  <a href="#Arquitetura-do-sistema">Arquitetura do Sistema</a> •
   <a href="#Instalador-e-Requisitos">Instalador e Requisitos</a> •
   <a href="#Como-instalar">Como instalar</a> •
   <a href="#Demonstração">Demonstração</a> •
+  <a href="#Manual-de-Usuário">Manual de Usuário</a> •
   <a href="#Equipe">Equipe</a>
  </p> 
  <br>
@@ -30,8 +34,7 @@ Operadores de crédito, fabricantes e concessionárias de veículos. Há baixa d
 Déficit das vendas e da fabricação de veículos e geração de estoque.
 
 - <strong>A solução seria:</strong><br>
-Orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais como, logística, produção, publicidade, redução de custos, localização e contratação de fornecedores das fabricantes de automóveis. 
-
+Orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais como, logística, produção, publicidade, redução de custos, localização e contratação de fornecedores das fabricantes de automóveis.
 
 ## Descrição dos usuários
 
@@ -40,12 +43,17 @@ Classificação do usuário da plataforma:
 do SPC Brasil. Auxiliará empresas que buscam por dados necessários para pesquisa de
 mercado no que tange ao financiamento de veículos. 
 
+## Arquitetura do Sistema
+
+<img src="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/arquitetura2.png"></a>
+
+
 ## Instalador e Requisitos 
 
 - Microsoft Power BI >= 2.82
 - Python >= 3.8.2
-- Pandas >= 1.0.5
-- matplotlib >= 3.2.1
+- Pandas >= 1.0.1
+- matplotlib >= 3.2.2
 
 O setup do Visual Data instala todas as aplicações necessárias com exceção do Microsoft Power BI.
 
@@ -54,11 +62,15 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 ## Como instalar
 
-- <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/guia_install.md">Guia passo a passo de instalação</a>
+- <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/guia_install.md">Guia passo a passo de instalação</a>
 
 ## Demonstração
  
-![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/master/arquivos_readme/gif_git.gif)
+![screenshot](https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/gif_demonstracao.gif)
+
+## Manual de Usuário
+
+- <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/blob/sprint-6/arquivos_readme/Manual_Usuario.md">Guia do Manual de Usuário</a>
 
 ## Equipe
 
